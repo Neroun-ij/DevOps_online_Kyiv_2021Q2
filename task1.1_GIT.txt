@@ -1,0 +1,16 @@
+7de43b2 HEAD@{0}: merge develop: Fast-forward
+7e67e12 HEAD@{1}: checkout: moving from develop to main
+7de43b2 HEAD@{2}: commit (merge): Resolved merge conflict
+d55ef48 HEAD@{3}: merge images: Fast-forward
+8e4f4e9 HEAD@{4}: checkout: moving from styles to develop
+74a77a9 HEAD@{5}: commit: Edited index.html, added styles sources
+b0c5f4b HEAD@{6}: commit: Added styles folder and added styles.css
+8e4f4e9 HEAD@{7}: checkout: moving from develop to styles
+8e4f4e9 HEAD@{8}: checkout: moving from images to develop
+d55ef48 HEAD@{9}: commit: Edited index html, added img source in it
+fe0aef5 HEAD@{10}: commit: Created images folder and added image inside
+8e4f4e9 HEAD@{11}: checkout: moving from develop to images
+8e4f4e9 HEAD@{12}: commit: Created empty index.html
+7e67e12 HEAD@{13}: checkout: moving from main to develop
+7e67e12 HEAD@{14}: Branch: renamed refs/heads/master to refs/heads/main
+7e67e12 HEAD@{16}: commit (initial): first commit
