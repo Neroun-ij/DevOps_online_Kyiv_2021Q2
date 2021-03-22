@@ -23,5 +23,5 @@ Configured USB port
 ![alt text](images/img4.png)
 
 
-Since I have VB on Mac OS, it really lovse to crash :) And now it decided not to start my virtual machine, at the moment this is all that i manged to do. i think it's better to download in this form than not to download to anything.)
+Since I have VB on Mac OS, it really loves to crash :) And now it decided not to start my virtual machine, at the moment this is all that i saved. I think it's better to download in this form than not to download to anything.) 
 
