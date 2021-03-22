@@ -16,3 +16,11 @@ Cloned VM1 to VM2
 Created group and snapshots of VM1
 ![alt text](images/img2.png)
 
+Some Basic cmd
+![alt text](images/img3.png)
+
+Configured USB port
+![alt text](images/img4.png)
+
+
+Since I have VB on Mac OS, it really lovse to crash :) And now it decided not to start my virtual machine, at the moment this is all that i manged to do. i think it's better to download in this form than not to download to anything.)
