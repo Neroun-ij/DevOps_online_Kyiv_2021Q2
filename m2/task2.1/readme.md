@@ -1,4 +1,5 @@
 Part 1
+
 	1. The most popular hypervisors are VirtualBox, KVM, Oracle, Hyper -V. Each of them has advantages and disadvantages over each other
 
 	2. VMware is the most expensive solution, Hyper-V is cheaper (or, when using Hyper-V Server and Linux virtual machines, it is generally free), KVM is initially free.
@@ -8,3 +9,4 @@ Part 1
 	VMware uses Storage DRS to balance loads between host resources
 		 
 Part 2
+![alt text](images/img.jpg "Сделал клон VM1")
