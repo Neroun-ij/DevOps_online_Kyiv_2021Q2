@@ -9,4 +9,9 @@ Part 1
 	VMware uses Storage DRS to balance loads between host resources
 		 
 Part 2
-![alt text](images/img.png "Сделал клон VM1")
+
+Cloned VM1 to VM2
+![alt text](images/img1.png)
+
+Created group and snapshots of VM1
+![alt text](images/img2.png)
