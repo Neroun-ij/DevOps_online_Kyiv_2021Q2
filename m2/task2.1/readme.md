@@ -9,4 +9,5 @@ Part 1
 	VMware uses Storage DRS to balance loads between host resources
 		 
 Part 2
+
 ![alt text](images/img1.png "Сделал клон VM1")
