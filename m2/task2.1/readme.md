@@ -15,3 +15,4 @@ Cloned VM1 to VM2
 
 Created group and snapshots of VM1
 ![alt text](images/img2.png)
+
