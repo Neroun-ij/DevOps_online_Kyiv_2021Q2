@@ -58,4 +58,4 @@
 
 15. Created a static website on Amazon S3 with the completed AWS labs and services which i worked within the educational program and earlier.<br/>
 
-[http://izhak-epam-task2.2.s3-website.us-east-2.amazonaws.com](http://izhak-epam-task2.2.s3-website.us-east-2.amazonaws.com)
+[http://izhak-epam.s3-website.us-east-2.amazonaws.com](http://izhak-epam.s3-website.us-east-2.amazonaws.com)
