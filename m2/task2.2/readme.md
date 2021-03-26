@@ -24,11 +24,11 @@
 ![alt text](screenshots/2.2-№12_2.png)
 ![alt text](screenshots/2.2-12_3.png)<br/>
 13. Explored the possibiliities of creating own domain and domaine name for mine site with AWS Route 53.
-![alt text](screenshots/Elastic_IP.png)<br/>
+![alt text](screenshots/Elastic_IP.png)\
 14. Deployed Docker Containers on Amazon Elastic Container Service (Amazon ECS).
 ![alt text](screenshots/Deploy_Docker_Container_in_ECS.png)
 ![alt text](screenshots/Done.png)
 
 15. Created a static website on Amazon S3 with the completed AWS labs and services which i worked within the educational program and earlier.<br/>
 
-[a link](http://izhak-epam-task2.2.s3-website.us-east-2.amazonaws.com)
+[http://izhak-epam-task2.2.s3-website.us-east-2.amazonaws.com](http://izhak-epam-task2.2.s3-website.us-east-2.amazonaws.com)
