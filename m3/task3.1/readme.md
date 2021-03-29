@@ -1,5 +1,5 @@
-                                              DATABASE ADMINISTRATION
-                                              -----------------------
+                                                DATABASE ADMINISTRATION
+                                                -----------------------
 
 Part 1
 ---
