@@ -85,7 +85,7 @@ And the last one:
 Part 2
 ---
 
-10 - 12 Made backup of my DATABASE, delete table study and restored DB.
+10 - 12 Made backup of my DATABASE, deleted table study and then restored DB.
 
 ![alt text](screenshots/backup.png)
 
