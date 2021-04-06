@@ -1,5 +1,5 @@
-                                          Networking Fundamentals
-                                          -----------------------
+                                              Networking Fundamentals
+                                              -----------------------
 
 1 - 2. Created project with 4 PC's and Hub.
 
