@@ -1,3 +1,6 @@
                                               Networking Fundamentals
                                               -----------------------
-![Alt text](gif_1.gif)                                            
+Part 1
+---
+
+![alt text](1.gif)
