@@ -6,3 +6,4 @@ In this repository, the tasks are divided like this:
   3. m3 - Database Administration (MySQL Server, AWS RDS and DynamoDB)
   4. m4 - Network Fundamentals
   5. m5 - Linux Essentials
+  6. m6 - Linux Networking
